@@ -1,4 +1,4 @@
-const github_url = ""
+const github_url = "https://github.com/Chief00/ddcas_enhancer"
 
 // Loads the css
 var c = document.createElement("link");
